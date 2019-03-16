@@ -1,4 +1,4 @@
-# Analyzing A/B Tests for Conversion Rates
+# Analysis of Conversion Rates
 
 ## Project 3 in the course of Data Science 2 (Udacity)
 
